@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.automationexercise.com/')
+WebUI.navigateToUrl(GlobalVariable.base_url)
 
