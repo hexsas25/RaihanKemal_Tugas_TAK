@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Day123456789101112131415161718192021_40ab5b</name>
+   <name>select_dropdownDayOfBirth</name>
    <tag></tag>
    <elementGuidId>5396ddcc-ac63-4a9b-bd8e-525478052ec1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#days</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='days']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#days</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

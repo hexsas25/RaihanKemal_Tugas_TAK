@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_(Street address, P.O. Box, Company na_957d3e</name>
+   <name>input_StreetAdress2</name>
    <tag></tag>
-   <elementGuidId>a1843503-f2e8-4c7f-a19a-beb85aad268c</elementGuidId>
+   <elementGuidId>2ac6cc26-9470-4f61-9b35-09c7ef2b2616</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#address1</value>
+         <key>XPATH</key>
+         <value>//input[@id='address2']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='address1']</value>
+         <key>CSS</key>
+         <value>#address2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Address * (Street address, P.O. Box, Company name, etc.)&quot;i</value>
+         <value>internal:label=&quot;Address 2&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>81a9eca9-b3eb-48b4-b848-81201b1f2a19</webElementGuid>
+      <webElementGuid>7218def2-039e-4a2c-8069-2948dd34ff2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ef903bf1-7754-4fab-8759-6e1d54d2f6ae</webElementGuid>
+      <webElementGuid>dd1c48ee-e15f-4d27-80b8-4c11de5d6410</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-qa</name>
       <type>Main</type>
-      <value>address</value>
-      <webElementGuid>a5d7b1b7-1788-4acc-8ca8-edac0d4b725c</webElementGuid>
+      <value>address2</value>
+      <webElementGuid>77d8c56d-9e0e-40b2-84d8-01044441924f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,62 +53,62 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>c4bcba89-f799-4ed0-8a3b-b61846c9fe93</webElementGuid>
+      <webElementGuid>a2a0492d-7b87-4341-8e06-71fd436e5d91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>address1</value>
-      <webElementGuid>2670a3e6-b18e-4617-9a95-f1de5c1f2f17</webElementGuid>
+      <value>address2</value>
+      <webElementGuid>3b7024fe-b5bd-4264-a039-bf041fea66e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>address1</value>
-      <webElementGuid>20b16d2b-b2b4-44ae-9eb8-afbc4ebf075f</webElementGuid>
+      <value>address2</value>
+      <webElementGuid>cc4e150a-62da-4fa1-a748-eb88e3967556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;address1&quot;)</value>
-      <webElementGuid>e1cf2732-5b33-4083-9547-bd854f3e8549</webElementGuid>
+      <value>id(&quot;address2&quot;)</value>
+      <webElementGuid>8ce0d82e-82ec-4168-b975-9b936a7117c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='address1']</value>
-      <webElementGuid>0216a68a-8220-4c1c-9ed5-ae2d388807ae</webElementGuid>
+      <value>//input[@id='address2']</value>
+      <webElementGuid>6205f805-d8c5-4755-aae5-de2cf1765f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='form']/div/div/div/div/form/p[4]/input</value>
-      <webElementGuid>5b8ede3f-b538-4c86-a24f-63a3b3990122</webElementGuid>
+      <value>//section[@id='form']/div/div/div/div/form/p[5]/input</value>
+      <webElementGuid>a8eaf3ad-0935-41bf-8554-7f264a3783dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//p[4]/input</value>
-      <webElementGuid>c761ced6-c48d-408e-b684-038474033b04</webElementGuid>
+      <value>//p[5]/input</value>
+      <webElementGuid>aee3740f-f9dc-4576-9c53-e422ac6544a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'address1' and @id = 'address1']</value>
-      <webElementGuid>98a9908d-6561-4894-b50e-ed3285a9b9be</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'address2' and @id = 'address2']</value>
+      <webElementGuid>88a27c36-cb55-4be2-beed-7963eedd8db0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

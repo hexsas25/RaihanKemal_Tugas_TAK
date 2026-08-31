@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Sign up for our newsletter_optin</name>
+   <name>input_StreetAddress</name>
    <tag></tag>
-   <elementGuidId>4f5d1222-df3f-4566-8ab3-d175f2ec71ce</elementGuidId>
+   <elementGuidId>a1843503-f2e8-4c7f-a19a-beb85aad268c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#optin</value>
+         <key>XPATH</key>
+         <value>//input[@id='address1']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='optin']</value>
+         <key>CSS</key>
+         <value>#address1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Receive special offers from our partners!&quot;i</value>
+         <value>internal:label=&quot;Address * (Street address, P.O. Box, Company name, etc.)&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>11bbf115-5ce7-46e1-8b0e-e4f39c346ffb</webElementGuid>
+      <webElementGuid>81a9eca9-b3eb-48b4-b848-81201b1f2a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>748a44af-7965-4907-bb69-64d0c0864ba3</webElementGuid>
+      <value>text</value>
+      <webElementGuid>ef903bf1-7754-4fab-8759-6e1d54d2f6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>a5d7b1b7-1788-4acc-8ca8-edac0d4b725c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c4bcba89-f799-4ed0-8a3b-b61846c9fe93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>optin</value>
-      <webElementGuid>5142f243-8fd4-4604-9ac4-76ad7f51254f</webElementGuid>
+      <value>address1</value>
+      <webElementGuid>2670a3e6-b18e-4617-9a95-f1de5c1f2f17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>optin</value>
-      <webElementGuid>2cd5fa45-2f8a-4fda-8778-47ee19f64ab1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>0a4c09c4-644b-42cc-9034-460e97f6f41e</webElementGuid>
+      <value>address1</value>
+      <webElementGuid>20b16d2b-b2b4-44ae-9eb8-afbc4ebf075f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;optin&quot;)</value>
-      <webElementGuid>cd382622-6fd8-47bc-8c76-b0dd9306b131</webElementGuid>
+      <value>id(&quot;address1&quot;)</value>
+      <webElementGuid>e1cf2732-5b33-4083-9547-bd854f3e8549</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='optin']</value>
-      <webElementGuid>1349b6d2-bac5-49c9-af78-cc974241a89c</webElementGuid>
+      <value>//input[@id='address1']</value>
+      <webElementGuid>0216a68a-8220-4c1c-9ed5-ae2d388807ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='uniform-optin']/span/input</value>
-      <webElementGuid>5fd60375-7de7-42fe-8761-b06bb64b9a98</webElementGuid>
+      <value>//section[@id='form']/div/div/div/div/form/p[4]/input</value>
+      <webElementGuid>5b8ede3f-b538-4c86-a24f-63a3b3990122</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/div/span/input</value>
-      <webElementGuid>0f3e69de-23ac-4b6c-ae55-c9648d62c682</webElementGuid>
+      <value>//p[4]/input</value>
+      <webElementGuid>c761ced6-c48d-408e-b684-038474033b04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'optin' and @id = 'optin']</value>
-      <webElementGuid>80792fe5-540d-41e7-9436-a11f38764a16</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'address1' and @id = 'address1']</value>
+      <webElementGuid>98a9908d-6561-4894-b50e-ed3285a9b9be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

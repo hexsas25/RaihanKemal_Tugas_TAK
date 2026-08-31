@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Year20212020201920182017201620152014_f874ed</name>
+   <name>select_dropdownYearOfBirth</name>
    <tag></tag>
    <elementGuidId>b229ab1f-8158-4172-be2b-8a3d1102c066</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#years</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='years']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#years</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

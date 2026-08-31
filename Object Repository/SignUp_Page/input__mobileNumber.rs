@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__mobile_number</name>
+   <name>input__mobileNumber</name>
    <tag></tag>
    <elementGuidId>349d5b33-8a4b-4ec8-a3bc-22e22ea52d36</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mobile_number</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='mobile_number']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mobile_number</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
