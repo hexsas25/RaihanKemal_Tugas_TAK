@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_MonthJanuaryFebruaryMarchAprilMayJun_aa9ebb</name>
+   <name>select_dropdownMonthOfBirth</name>
    <tag></tag>
    <elementGuidId>5e153580-4ec9-41c9-b549-03f419c99082</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#months</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='months']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#months</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

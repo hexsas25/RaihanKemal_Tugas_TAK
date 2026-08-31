@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_IndiaUnited StatesCanadaAustraliaIsr_09757b</name>
+   <name>select_dropdownCountry</name>
    <tag></tag>
    <elementGuidId>e6077215-2316-461b-bb26-af5411189c07</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#country</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='country']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#country</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

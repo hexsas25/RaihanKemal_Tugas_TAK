@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Address 2_address2</name>
+   <name>input__lastName</name>
    <tag></tag>
-   <elementGuidId>2ac6cc26-9470-4f61-9b35-09c7ef2b2616</elementGuidId>
+   <elementGuidId>5a1492e1-41ea-405e-82f9-ea3e7b4e39ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#address2</value>
+         <key>XPATH</key>
+         <value>//input[@id='last_name']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='address2']</value>
+         <key>CSS</key>
+         <value>#last_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Address 2&quot;i</value>
+         <value>internal:label=&quot;Last name *&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7218def2-039e-4a2c-8069-2948dd34ff2b</webElementGuid>
+      <webElementGuid>aa4b251b-001c-423e-89c1-dc4d4a05c1e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dd1c48ee-e15f-4d27-80b8-4c11de5d6410</webElementGuid>
+      <webElementGuid>ab6a0f52-ba1e-4922-a5b5-76da05e4ec51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-qa</name>
       <type>Main</type>
-      <value>address2</value>
-      <webElementGuid>77d8c56d-9e0e-40b2-84d8-01044441924f</webElementGuid>
+      <value>last_name</value>
+      <webElementGuid>4ac8fdfc-e6c3-41f8-a417-5e9f89602938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,62 +53,62 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a2a0492d-7b87-4341-8e06-71fd436e5d91</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>address2</value>
-      <webElementGuid>3b7024fe-b5bd-4264-a039-bf041fea66e5</webElementGuid>
+      <webElementGuid>1ebf7d35-4f88-42d5-95f1-8a40a19a05fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>address2</value>
-      <webElementGuid>cc4e150a-62da-4fa1-a748-eb88e3967556</webElementGuid>
+      <value>last_name</value>
+      <webElementGuid>9fd1d26d-3c28-413f-9cf5-b8587ae046f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>last_name</value>
+      <webElementGuid>a30db3b2-69e5-477c-8bbc-4d11d6bec519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;address2&quot;)</value>
-      <webElementGuid>8ce0d82e-82ec-4168-b975-9b936a7117c2</webElementGuid>
+      <value>id(&quot;last_name&quot;)</value>
+      <webElementGuid>3bf35d8d-ec47-42b0-893b-35121a7893f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='address2']</value>
-      <webElementGuid>6205f805-d8c5-4755-aae5-de2cf1765f75</webElementGuid>
+      <value>//input[@id='last_name']</value>
+      <webElementGuid>3bad1a62-591b-4c84-87db-35879c2b2bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='form']/div/div/div/div/form/p[5]/input</value>
-      <webElementGuid>a8eaf3ad-0935-41bf-8554-7f264a3783dc</webElementGuid>
+      <value>//section[@id='form']/div/div/div/div/form/p[2]/input</value>
+      <webElementGuid>4a9be18f-3ac0-4837-b968-115e42ff38f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//p[5]/input</value>
-      <webElementGuid>aee3740f-f9dc-4576-9c53-e422ac6544a6</webElementGuid>
+      <value>//p[2]/input</value>
+      <webElementGuid>0d470201-1ca7-41df-a9d7-fe596a5923f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'address2' and @id = 'address2']</value>
-      <webElementGuid>88a27c36-cb55-4be2-beed-7963eedd8db0</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'last_name' and @name = 'last_name']</value>
+      <webElementGuid>fd2bf6fa-b6ed-4bc5-a35f-31f41df39a94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

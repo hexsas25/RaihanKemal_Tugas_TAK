@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__last_name</name>
+   <name>checkbox_SpecialOffer</name>
    <tag></tag>
-   <elementGuidId>5a1492e1-41ea-405e-82f9-ea3e7b4e39ce</elementGuidId>
+   <elementGuidId>4f5d1222-df3f-4566-8ab3-d175f2ec71ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#last_name</value>
+         <key>XPATH</key>
+         <value>//input[@id='optin']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='last_name']</value>
+         <key>CSS</key>
+         <value>#optin</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Last name *&quot;i</value>
+         <value>internal:label=&quot;Receive special offers from our partners!&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>aa4b251b-001c-423e-89c1-dc4d4a05c1e6</webElementGuid>
+      <webElementGuid>11bbf115-5ce7-46e1-8b0e-e4f39c346ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>ab6a0f52-ba1e-4922-a5b5-76da05e4ec51</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-qa</name>
-      <type>Main</type>
-      <value>last_name</value>
-      <webElementGuid>4ac8fdfc-e6c3-41f8-a417-5e9f89602938</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>1ebf7d35-4f88-42d5-95f1-8a40a19a05fa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>last_name</value>
-      <webElementGuid>9fd1d26d-3c28-413f-9cf5-b8587ae046f9</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>748a44af-7965-4907-bb69-64d0c0864ba3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>last_name</value>
-      <webElementGuid>a30db3b2-69e5-477c-8bbc-4d11d6bec519</webElementGuid>
+      <value>optin</value>
+      <webElementGuid>5142f243-8fd4-4604-9ac4-76ad7f51254f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>optin</value>
+      <webElementGuid>2cd5fa45-2f8a-4fda-8778-47ee19f64ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0a4c09c4-644b-42cc-9034-460e97f6f41e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;last_name&quot;)</value>
-      <webElementGuid>3bf35d8d-ec47-42b0-893b-35121a7893f2</webElementGuid>
+      <value>id(&quot;optin&quot;)</value>
+      <webElementGuid>cd382622-6fd8-47bc-8c76-b0dd9306b131</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='last_name']</value>
-      <webElementGuid>3bad1a62-591b-4c84-87db-35879c2b2bf9</webElementGuid>
+      <value>//input[@id='optin']</value>
+      <webElementGuid>1349b6d2-bac5-49c9-af78-cc974241a89c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='form']/div/div/div/div/form/p[2]/input</value>
-      <webElementGuid>4a9be18f-3ac0-4837-b968-115e42ff38f7</webElementGuid>
+      <value>//div[@id='uniform-optin']/span/input</value>
+      <webElementGuid>5fd60375-7de7-42fe-8761-b06bb64b9a98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//p[2]/input</value>
-      <webElementGuid>0d470201-1ca7-41df-a9d7-fe596a5923f9</webElementGuid>
+      <value>//div[7]/div/span/input</value>
+      <webElementGuid>0f3e69de-23ac-4b6c-ae55-c9648d62c682</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'last_name' and @name = 'last_name']</value>
-      <webElementGuid>fd2bf6fa-b6ed-4bc5-a35f-31f41df39a94</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'optin' and @id = 'optin']</value>
+      <webElementGuid>80792fe5-540d-41e7-9436-a11f38764a16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
